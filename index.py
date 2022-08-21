@@ -1,3 +1,5 @@
+# 21 August 2022 - Added the ability to create a CLI package from a single file.
+# Build to convert the Google Evaluation Sheet to json to use that in comparing 2 json files.
 import typer
 import pandas as pd
 import json
