@@ -1,4 +1,5 @@
 [metadata]
+
 name = csv2json2csv
 
 version = 0.0.1
